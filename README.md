@@ -29,9 +29,9 @@
 
 >**3주차 - 다이나믹 프로그래밍 문제 풀이** 2017/12/17
 
-문제 - [9084 - 동전](https://www.acmicpc.net/problem/9084),　[1932 - 숫자 삼각형](https://www.acmicpc.net/problem/1932), [11052 - 붕어빵 판매하기](https://www.acmicpc.net/problem/11052),　 [1563 - 개근상](https://www.acmicpc.net/problem/1563)
+문제 - [9084 - 동전](https://www.acmicpc.net/problem/9084),　[1932 - 숫자 삼각형](https://www.acmicpc.net/problem/1932),　 [11052 - 붕어빵 판매하기](https://www.acmicpc.net/problem/11052),　 [1563 - 개근상](https://www.acmicpc.net/problem/1563)
 
-번외 - [3102 -  겹치지 않는 원](https://www.acmicpc.net/problem/3102)
+번외 - [3102 -  겹치지 않는 원](https://www.acmicpc.net/problem/3102),　[2293 - 동전 1](https://www.acmicpc.net/problem/2293)
 
 참고 사이트 - [동전 풀이 설명 by Jeon](https://youtu.be/UGIH0nX0jZg)
 <br><br><br>
