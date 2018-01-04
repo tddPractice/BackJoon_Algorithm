@@ -41,9 +41,9 @@
 
 문제 - [2156 - 포도주 시식](https://www.acmicpc.net/problem/2156),　 [2294 - 동전 2](https://www.acmicpc.net/problem/2294),　 [2579 - 계단오르기](https://www.acmicpc.net/problem/2579),　 [2167 - 2차원 배열의 합](https://www.acmicpc.net/problem/2167),　 [1520 - 내리막 길](https://www.acmicpc.net/problem/1520),　 [1563 - 개근 상](https://www.acmicpc.net/problem/1563)
 
-문제(그리디 알고리즘) - [11399 - ATM](https://www.acmicpc.net/problem/11399),　[2200 - 계산기](https://www.acmicpc.net/problem/2200)
+문제(그리디 알고리즘) - [11399 - ATM](https://www.acmicpc.net/problem/11399),　[2200 - 계산기](https://www.acmicpc.net/problem/2200),　[3486 - Adding Reversed Numbers](https://www.acmicpc.net/problem/3486) 
 <br><br><br>
 
 >**5주차 - 그리디 알고리즘 문제 풀이** 2018/01/07 예정
 
-문제 - []() 
+문제 - []()
