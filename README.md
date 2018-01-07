@@ -39,11 +39,27 @@
 
 >**4주차 - 그리디 알고리즘 및 다이나믹 프로그래밍 문제 풀이**
 
-문제 - [2156 - 포도주 시식](https://www.acmicpc.net/problem/2156),　 [2294 - 동전 2](https://www.acmicpc.net/problem/2294),　 [2579 - 계단오르기](https://www.acmicpc.net/problem/2579),　 [2167 - 2차원 배열의 합](https://www.acmicpc.net/problem/2167),　 [1520 - 내리막 길](https://www.acmicpc.net/problem/1520),　 [1563 - 개근 상](https://www.acmicpc.net/problem/1563)
+문제 풀어오기 - [2156 - 포도주 시식](https://www.acmicpc.net/problem/2156),　 [2294 - 동전 2](https://www.acmicpc.net/problem/2294),　 [2579 - 계단오르기](https://www.acmicpc.net/problem/2579),　 [2167 - 2차원 배열의 합](https://www.acmicpc.net/problem/2167),　 [1520 - 내리막 길](https://www.acmicpc.net/problem/1520),　 [1563 - 개근 상](https://www.acmicpc.net/problem/1563)
 
-문제(그리디 알고리즘) - [11399 - ATM](https://www.acmicpc.net/problem/11399),　[2200 - 계산기](https://www.acmicpc.net/problem/2200),　[3486 - Adding Reversed Numbers](https://www.acmicpc.net/problem/3486) 
+문제 풀어오기(그리디 알고리즘) - [11399 - ATM](https://www.acmicpc.net/problem/11399),　[2200 - 계산기](https://www.acmicpc.net/problem/2200)
 <br><br><br>
 
->**5주차 - 그리디 알고리즘 문제 풀이** 2018/01/07 예정
+>**5주차 - 그리디 알고리즘 문제 풀이**
 
-문제 - []()
+*그리디 알고리즘 문제풀이 및 동적계획법 문제 풀이
+
+문제 리뷰 - [1520 - 내리막 길](https://www.acmicpc.net/problem/1520),　 [1563 - 개근 상](https://www.acmicpc.net/problem/1563),　 [2156 - 포도주 시식](https://www.acmicpc.net/problem/2156),　 [2200 - 계산기](https://www.acmicpc.net/problem/2200),　[2217 - 로프](https://www.acmicpc.net/problem/2217),　[2579 - 계단오르기](https://www.acmicpc.net/problem/2579),　 [2828 - 사과담기게임](https://www.acmicpc.net/problem/2828), 　[3486 -  Adding Reversed Number](https://www.acmicpc.net/problem/3486), 　[5545 -  최고의피자](https://www.acmicpc.net/problem/5545), 　[5585 -  거스름돈](https://www.acmicpc.net/problem/5585)
+
+>**6주차 - 그래프, DP문제풀이, 그리디 문제풀이** 2018/01/14 예정
+
+새 알고리즘 학습 - BFS 알고리즘(너비 우선 탐색), DFS(깊이 우선 탐색)
+
+예정 문제 풀이
+
+ - 동적 계획법 -
+ - 그리디 알고리즘 -
+ - BFS -
+ - DFS -
+
+----------------
+문제 풀이 - []()
