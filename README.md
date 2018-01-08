@@ -57,10 +57,10 @@
 
 예정 문제 풀이
 
- - 동적 계획법 -
- - 그리디 알고리즘 -
- - BFS -
- - DFS -
+ - 동적 계획법 - [1463 - 1로 만들기](https://www.acmicpc.net/problem/1463),　[1328 - 고층빌딩](https://www.acmicpc.net/problem/1328)
+ - 그리디 알고리즘 - [1946 - 신입 사원](https://www.acmicpc.net/problem/1946),　[1758 - 신입사원](https://www.acmicpc.net/problem/1758)
+ - BFS - [4677 - Oil Deposits](https://www.acmicpc.net/problem/4677),　[5062 - Different Digits](https://www.acmicpc.net/problem/5062),　[3125 - GONDOR](https://www.acmicpc.net/problem/3125)
+ - DFS - [10743 - POLICE](https://www.acmicpc.net/problem/10743),　[2019 - 다각형개수](https://www.acmicpc.net/problem/2019),　[6601 - Knight Moves](https://www.acmicpc.net/problem/6601)
 
 *스터디 결과 리뷰
 
