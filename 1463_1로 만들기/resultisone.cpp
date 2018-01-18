@@ -27,7 +27,6 @@ int main() {
 	cin >> N;
 
 	memset(dp, -1, sizeof(dp));
-
 	cout << findC(N);
 
 	return 0;
