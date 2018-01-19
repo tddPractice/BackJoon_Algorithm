@@ -1,4 +1,5 @@
 
+
 # BackJoon_Algorithm
 
 ## 2017-12-03 ~
@@ -77,5 +78,6 @@
 - 동적 계획법 - [11066 - 파일 합치기](https://www.acmicpc.net/problem/11066), 　[10844 - 쉬운 계단 수](https://www.acmicpc.net/problem/10844),　[9461 - 파도반 수열](https://www.acmicpc.net/problem/9461),　[1315 - RPG](https://www.acmicpc.net/problem/1315),　[10272 - 현상금 사냥꾼 김정은](https://www.acmicpc.net/problem/10272)
 - 그래프 - [7562 - 나이트의 이동](https://www.acmicpc.net/problem/7562),　[2178 - 미로 탐색](https://www.acmicpc.net/problem/2178),　[7569 - 토마토](https://www.acmicpc.net/problem/7569),　[2667 - 단지번호 붙이기](https://www.acmicpc.net/problem/2667),　[1753 - 최단경로](https://www.acmicpc.net/problem/1753),　[1865 - 웜홀](https://www.acmicpc.net/problem/1865),　[2252 - 줄 세우기](https://www.acmicpc.net/problem/2252),　[1516 - 게임 개발](https://www.acmicpc.net/problem/1516)
 
-참고 사항 - LCS, BFS, DFS, 위상 정렬, 최단 거리, 메모이제이션
+참고 사항 - LCS, BFS, DFS, 위상 정렬, 최단 거리, 메모이제이션, [다익스트라 알고리즘](http://blog.naver.com/PostView.nhn?blogId=yhjeong89&logNo=220772512405&parentCategoryNo=69&categoryNo=&viewDate=&isShowPopularPosts=true&from=search)
+
 <br><br><br>
