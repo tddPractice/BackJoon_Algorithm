@@ -1,6 +1,7 @@
 
 
 
+
 # BackJoon_Algorithm
 
 ## 2017-12-03 ~
@@ -87,7 +88,7 @@
 - 그래프 - [7562 - 나이트의 이동](https://www.acmicpc.net/problem/7562),　[2178 - 미로 탐색](https://www.acmicpc.net/problem/2178),　[7569 - 토마토](https://www.acmicpc.net/problem/7569),　[2667 - 단지번호 붙이기](https://www.acmicpc.net/problem/2667),　[1865 - 웜홀](https://www.acmicpc.net/problem/1865)
 
 <br><br><br>
->**8주차 - 그래프 문제 집중 풀이** 2018/01/22 예정
+>**8주차 - 그래프 문제 집중 풀이**
 
 예정 문제 풀이 : 그래프 개념 심화 및 문제 풀이 라이브 코딩
 - 그래프
@@ -98,5 +99,16 @@
   - Floyd - Jeon
 - 동적 계획법
   - 내리막 길 - WJ
+<br><br><br>
 
-기타 문제 풀이 - 
+>**9주차 - 그래프 문제 풀이(마무리)** 2018/02/04 예정
+
+예정 문제 풀이 : 그래프 개념 심화 및 문제 풀이 라이브 코딩
+- 그래프
+  - Dijkstra 알고리즘
+  - Floyd 알고리즘
+
+※ 코드 시연시 Compile Error, Runtime Error 나지 않도록 코드 완성할 것
+※ 알고리즘의 구현 방식, 내부 동작 방식을 숙지할 것
+※ 백준 저지의 그룹방에 있는 문제 리스트 참고하고 올 것
+<br><br><br>
