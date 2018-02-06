@@ -2,6 +2,7 @@
 
 
 
+
 # BackJoon_Algorithm
 
 ## 2017-12-03 ~
@@ -111,4 +112,10 @@
 ※ 코드 시연시 Compile Error, Runtime Error 나지 않도록 코드 완성할 것
 ※ 알고리즘의 구현 방식, 내부 동작 방식을 숙지할 것
 ※ 백준 저지의 그룹방에 있는 문제 리스트 참고하고 올 것
+<br><br><br>
+
+>**10주차 - 트리 기본 개념 및 문제 풀이** 2018/02/11 예정
+
+예정 문제 풀이 : 트리 기본 개념을 다룰 수 있는 백준 문제 풀이
+- 트리 - [1991 - 트리 순회](https://www.acmicpc.net/problem/1991),　[11725 - 트리의 부모 찾기](https://www.acmicpc.net/problem/11725),　[1167 - 트리의 부모 찾기](https://www.acmicpc.net/problem/1167),　[2250 - 트리의 높이와 너비](https://www.acmicpc.net/problem/2250),　[1967 - 트리의 지름](https://www.acmicpc.net/problem/1967),　[1693 - 트리 색칠하기](https://www.acmicpc.net/problem/1693),　[1289 - 트리의 가중치](https://www.acmicpc.net/problem/1289)
 <br><br><br>
