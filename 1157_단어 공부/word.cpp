@@ -5,7 +5,7 @@
 */
 #include <cstdio>
 #include <queue>
-using namespace std; 
+using namespace std;
 
 int main() {
 	char ch;
