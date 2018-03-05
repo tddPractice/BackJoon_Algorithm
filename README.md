@@ -121,7 +121,7 @@
 - 트리 - [1991 - 트리 순회](https://www.acmicpc.net/problem/1991),　[11725 - 트리의 부모 찾기](https://www.acmicpc.net/problem/11725),　[1167 - 트리의 부모 찾기](https://www.acmicpc.net/problem/1167),　[2250 - 트리의 높이와 너비](https://www.acmicpc.net/problem/2250),　[1967 - 트리의 지름](https://www.acmicpc.net/problem/1967),　[1693 - 트리 색칠하기](https://www.acmicpc.net/problem/1693),　[1289 - 트리의 가중치](https://www.acmicpc.net/problem/1289)
 <br><br><br>
  
->**11주 차 - DP, 그래프, 트리 마무리 정리** 2018/02/25 예정
+>**11주 차 - DP, 그래프, 트리 마무리 정리** 
 
 3개월간 진행된 DP, Graph, Tree를 마무리 하는 의미로 많은 문제를 풀어 볼 것
 
@@ -133,3 +133,5 @@
 - IIH : 30
 - 참고 : 최소 스패닝 트리, 최장 공통 부분 수열(LCS), 백트래킹
 <br><br><br>
+
+>> 스터디 종료
