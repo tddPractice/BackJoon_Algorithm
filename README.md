@@ -6,7 +6,7 @@
  
 # BackJoon_Algorithm
 
-## 2017-12-03 ~
+## 2017-12-03 ~ 2018-02-11
 
 백준 알고리즘 문제들을 풀어놓은 코드를 모아놓은 repository
 
@@ -115,7 +115,7 @@
 ※ 백준 저지의 그룹방에 있는 문제 리스트 참고하고 올 것
 <br><br><br>
 
->**10주차 - 트리 기본 개념 및 문제 풀이** 2018/02/11 예정
+>**10주차 - 트리 기본 개념 및 문제 풀이**
 
 예정 문제 풀이 : 트리 기본 개념을 다룰 수 있는 백준 문제 풀이
 - 트리 - [1991 - 트리 순회](https://www.acmicpc.net/problem/1991),　[11725 - 트리의 부모 찾기](https://www.acmicpc.net/problem/11725),　[1167 - 트리의 부모 찾기](https://www.acmicpc.net/problem/1167),　[2250 - 트리의 높이와 너비](https://www.acmicpc.net/problem/2250),　[1967 - 트리의 지름](https://www.acmicpc.net/problem/1967),　[1693 - 트리 색칠하기](https://www.acmicpc.net/problem/1693),　[1289 - 트리의 가중치](https://www.acmicpc.net/problem/1289)
@@ -135,3 +135,6 @@
 <br><br><br>
 
 >> 스터디 종료 
+<br><br><br>
+
+## 2018-02-18 ~ 개인적인 공부 진행 중
