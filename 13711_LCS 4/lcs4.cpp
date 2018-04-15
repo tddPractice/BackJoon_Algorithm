@@ -1,7 +1,7 @@
 /*
 
 2018 Mar 8, made by Moon
-
+ 
 */
 #include<cstdio>
 #include<algorithm>
