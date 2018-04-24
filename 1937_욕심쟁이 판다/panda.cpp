@@ -1,63 +1,54 @@
 /*
 
-2018 Mar 13, made by Moon
+2018 Apr 23, made by Moon
 
 */
 #include <cstdio>
-
-int v[502][502] = { 0 }, dp[502][502] = { 0 };
-int x[4] = { -1, 0, 0, 1 };
-int y[4] = { 0, -1, 1, 0 };
-
-void checkValue(int i, int j) {
-	for (int k = 0; k < 4; k++) {
-		if (v[i + x[k]][j + y[k]] > 0) {
-			if (v[i][j] < v[i + x[k]][j + y[k]]) {
-				if (dp[i][j] + 1 > dp[i + x[k]][j + y[k]]) {
-					dp[i + x[k]][j + y[k]] = dp[i][j] + 1;
-					checkValue(i + x[k], j + y[k]);
-				}
-			}
-		}
-	}
-}
+#include <vector>
+#include <algorithm>
+using namespace std;
 
 int main() {
-	int n;
+	int n, k;
 	scanf("%d", &n);
 
-	int k;
-	for(int i = 1; i <= n; i++){
+	int x[4] = { 0, 0, 1, -1 };
+	int y[4] = { 1, -1, 0, 0 };
+	vector<vector<int> > v(n + 2, vector<int>(n + 2, 0));
+	vector<vector<int> > adj(n + 2, vector<int>(n + 2, -1));
+	vector<pair<int, pair<int, int> > > q;
+
+	for (int i = 1; i <= n; i++) {
+		for (int j = 1; j <= n; j++) {
+			adj[i][j] = 1;
+		}
+	}
+
+	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= n; j++) {
 			scanf("%d", &k);
 			v[i][j] = k;
-			dp[i][j] = 1;
+			q.push_back(make_pair(k, make_pair(i, j)));
 		}
 	}
+	
+	sort(q.begin(), q.end());
 
-	for (int i = 1; i <= n; i++) {
-		for (int j = 1; j <= n; j++) {
-			for (k = 0; k < 4; k++) {
-				if (v[i + x[k]][j + y[k]] > 0){
-					if (v[i][j] < v[i + x[k]][j + y[k]]) {
-						if (dp[i][j] + 1 > dp[i + x[k]][j + y[k]]) {
-							dp[i + x[k]][j + y[k]] = dp[i][j] + 1;
-							checkValue(i + x[k], j + y[k]);
-						}
-					}
+	long long maxV = 1;
+	int size = q.size();
+	for (int p = 0; p < size; p++) {
+		int i = q[p].second.first;
+		int j = q[p].second.second;
+
+		for (int k = 0; k < 4; k++) {
+			if (v[i][j] < v[i + x[k]][j + y[k]]) {
+				if (adj[i][j] + 1 > adj[i + x[k]][j + y[k]]) {
+					adj[i + x[k]][j + y[k]] = adj[i][j] + 1;
+					maxV = adj[i + x[k]][j + y[k]] > maxV ? adj[i + x[k]][j + y[k]] : maxV;
 				}
 			}
 		}
 	}
-
-	int maxV = -1;
-	for (int i = 1; i <= n; i++) {
-		for (int j = 1; j <= n; j++) {
-			maxV = dp[i][j] > maxV ? dp[i][j] : maxV;
-		}
-	}
-
-
-	printf("%d\n", maxV);
+	printf("%lld\n", maxV);
 	return 0;
 }
